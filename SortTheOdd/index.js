@@ -1,6 +1,7 @@
 function sortArray(array) {
 
     // Sort with arguments odd and even
+        // Still think it's using sort with some sort of arguments given, but not able to fix today, should be done on Monday
   
     let odd = []
     let even = []
